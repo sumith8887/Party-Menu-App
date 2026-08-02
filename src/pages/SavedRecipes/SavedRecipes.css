@@ -1,0 +1,25 @@
+.saved-page {
+
+    padding: 30px;
+
+}
+
+.saved-page button {
+
+    margin-top: 10px;
+
+    width: 100%;
+
+    padding: 12px;
+
+    background: red;
+
+    color: white;
+
+    border: none;
+
+    cursor: pointer;
+
+    border-radius: 8px;
+
+}

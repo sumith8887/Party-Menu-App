@@ -1,0 +1,65 @@
+.detail-page {
+
+    padding: 40px;
+
+}
+
+.detail-card {
+
+    display: flex;
+
+    gap: 40px;
+
+    margin-top: 30px;
+
+}
+
+.detail-card img {
+
+    width: 500px;
+
+    border-radius: 15px;
+
+}
+
+.detail-content {
+
+    flex: 1;
+
+}
+
+.detail-content h1 {
+
+    margin: 20px 0;
+
+}
+
+.detail-content p {
+
+    margin: 15px 0;
+
+}
+
+.detail-content ul {
+
+    margin: 20px 0;
+
+}
+
+.detail-content button {
+
+    margin-top: 25px;
+
+    padding: 15px 30px;
+
+    background: #f97316;
+
+    border: none;
+
+    color: white;
+
+    border-radius: 8px;
+
+    cursor: pointer;
+
+}
